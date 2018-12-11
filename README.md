@@ -1,3 +1,3 @@
-# hello-world
+# hello-world :-)
 
-This is a test! I know nothing about GitHub!
+This is a test! I know about GitHub!
